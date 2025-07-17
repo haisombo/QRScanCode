@@ -1,9 +1,3 @@
-//
-//  AppDelegate.swift
-//  QRScanCode
-//
-//  Created by Nin Sreynuth on 19/3/24.
-//
 
 import UIKit
 

@@ -1,9 +1,3 @@
-//
-//  QRScanCodeTests.swift
-//  QRScanCodeTests
-//
-//  Created by Nin Sreynuth on 19/3/24.
-//
 
 import XCTest
 @testable import QRScanCode

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C23064E5-B438-4455-8FCA-8DE0FE312278"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "93E38D12-539C-4AC3-844E-123FC9F19B31"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QRScanCode/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "generateKhqr()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "93E38D12-539C-4AC3-844E-123FC9F19B31 - ffcb3b26a23c028c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QRScanCode.ViewController.generateKhqr() -&gt; ()"
+                  moduleName = "QRScanCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ninsreynuth/Desktop/Project/QRScanCode/QRScanCode/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "93E38D12-539C-4AC3-844E-123FC9F19B31 - ffcb3b26a23c028c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QRScanCode.ViewController.generateKhqr() -&gt; ()"
+                  moduleName = "QRScanCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ninsreynuth/Desktop/Project/QRScanCode/QRScanCode/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "112">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2D9B5852-9BC9-404B-ADFD-1A6284D7B23D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QRScanCode/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "generateKhqr()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2D9B5852-9BC9-404B-ADFD-1A6284D7B23D - ffcb3b26a23c0370"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QRScanCode.ViewController.generateKhqr() -&gt; ()"
+                  moduleName = "QRScanCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ninsreynuth/Desktop/Project/QRScanCode/QRScanCode/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "2720">
+               </Location>
+               <Location
+                  uuid = "2D9B5852-9BC9-404B-ADFD-1A6284D7B23D - ffcb3b26a23c0370"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QRScanCode.ViewController.generateKhqr() -&gt; ()"
+                  moduleName = "QRScanCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ninsreynuth/Desktop/Project/QRScanCode/QRScanCode/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "2216">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

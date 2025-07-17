@@ -1,9 +1,4 @@
-//
-//  QRScanCodeUITests.swift
-//  QRScanCodeUITests
-//
-//  Created by Nin Sreynuth on 19/3/24.
-//
+
 
 import XCTest
 
